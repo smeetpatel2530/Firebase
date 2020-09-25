@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115062476051",
+    "firebase_url": "https://fir-auth-and-db-d8150.firebaseio.com",
+    "project_id": "fir-auth-and-db-d8150",
+    "storage_bucket": "fir-auth-and-db-d8150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115062476051:android:ebb780857294889df61ee6",
+        "android_client_info": {
+          "package_name": "com.smeet.firebaseauthanddb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115062476051-ifbsiugvhoc7ggsc8sbu11n6ssghqoco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smeet.firebaseauthanddb",
+            "certificate_hash": "03c99b7f2ea96d4b4859145abdfcbd388afc72c2"
+          }
+        },
+        {
+          "client_id": "115062476051-1b5l22cmuanugh4m4ph7qpojd44d388c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_X3z7bYmPcxZwcHaKYkpuCAjqOg1O4BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115062476051-1b5l22cmuanugh4m4ph7qpojd44d388c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
